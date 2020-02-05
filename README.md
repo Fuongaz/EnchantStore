@@ -1,2 +1,5 @@
 # EnchantStore
-Enchantment Form :33
+
+Depend:
+ - FormAPI
+ - EconomyAPI
